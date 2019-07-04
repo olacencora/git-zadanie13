@@ -1,0 +1,25 @@
+h3
+{
+    text-align: left;  
+}
+a:link /*nieodwiedzony link*/
+{
+    color: #990099;
+    text-decoration: none;
+}
+a:visited /*odwiedzony link*/
+{
+    color:  #210099;
+    text-decoration: underline;
+}
+a:hover /*kursor na linku*/
+{
+    background-color:  #bdc010; 
+    color: #000000;
+    text-decoration: none;
+}
+a:active /*aktywny PORZADEK ZAPISU ISTOTNY*/
+{
+    text-decoration: none;
+    color: #0a7938;
+}
